@@ -2,6 +2,23 @@
 
 ---
 
+### Hello My Name is Domenik Moody, but you can call me Dom
+
+I am a Full Stack SofrWare Engineer who is absolultly crazy for art and music.
+All of my project share a piece of my passion check it out
+<div>
+  [OtakuXpress](https://otakuxpress.onrender.com/)
+</div>
+<div>
+  [AudioDome](https://audiodome.onrender.com/)
+</div>
+<div>
+  [Paradise Abode](https://api-project-base.onrender.com/)
+</div>
+
+
+---
+
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=DomenikMoody&theme=dark&background=000000)](https://git.io/streak-stats)
 
 ---
