@@ -5,7 +5,7 @@
 ### Hello My Name is Domenik Moody, but you can call me Dom
 
 I am a Full Stack SofrWare Engineer who is absolultly crazy for art ,music, and Dad Jokes.
-All of my project share a piece of my passion check it out
+All of my project share a piece of my passion
 <div>
   
   [OtakuXpress](https://otakuxpress.onrender.com/)
