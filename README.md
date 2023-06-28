@@ -2,10 +2,11 @@
 
 ---
 
-### Hello My Name is Domenik Moody, but you can call me Dom
+### Hello my name is Domenik Moody, but you can call me Dom
 
-I am a Full Stack SofrWare Engineer who is absolultly crazy for art ,music, and Dad Jokes.
-All of my project share a piece of my passion
+I'm an enthusiastic full-stack software engineer with a deep passion for art, music, and Dad Jokes. Before embarking on my software engineering journey, I had the opportunity to work in the tech industry, providing technical support to users, and also gained experience in the financial industry as a banker. These roles helped me realize my true calling and led me to pursue education at App Academy, where I dedicated myself to studying and gaining over 1000 hours of hands-on coding experience.
+
+During my time at App Academy, I not only honed my technical skills but also received invaluable mentorship from experienced developers, which further fueled my passion for software engineering. I had the opportunity to work on a variety of exciting projects that allowed me to apply my knowledge and creativity to real-world scenarios. Some of my notable projects include:
 <div>
   
   [OtakuXpress](https://otakuxpress.onrender.com/)
@@ -16,6 +17,7 @@ All of my project share a piece of my passion
   
 </div>
 
+These projects, among others, have allowed me to showcase my technical prowess while incorporating my love for art, music, and humor. I thrive on the opportunity to merge my diverse background with my software engineering skills to create innovative and enjoyable experiences for users.
 
 ---
 
