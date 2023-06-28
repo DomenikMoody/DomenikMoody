@@ -17,7 +17,7 @@ During my time at App Academy, I not only honed my technical skills but also rec
   
 </div>
 
-These projects, have allowed me to showcase my range of programming languages and frameworks (Python, JavaScript, Express, SQL, Sequelize, SQLite, Flask, React, Redux, and SQLAlchemy)while incorporating my love for art, music, and humor. I thrive on the opportunity to merge my diverse background with my software engineering skills to create innovative and enjoyable experiences for users.
+These projects, have allowed me to showcase my range of programming languages and frameworks (Python, JavaScript, Express, SQL, Sequelize, SQLite, Flask, React, Redux, and SQLAlchemy) while incorporating my love for art, music, and humor. I thrive on the opportunity to merge my diverse background with my software engineering skills to create innovative and enjoyable experiences for users.
 
 ---
 
