@@ -4,7 +4,7 @@
 
 ### Hello my name is Domenik Moody, but you can call me Dom
 
-Im an enthusiastic full-stack software engineer with a deep passion for art, music, and Dad Jokes. Before embarking on my software engineering journey, I had the opportunity to work in the tech industry, providing technical support to users, and also gained experience in the financial industry as a banker. These roles helped me realize my true calling and led me to pursue education at App Academy, where I dedicated myself to studying and gaining over 1000 hours of hands-on coding experience.
+I'm an enthusiastic full-stack software engineer with a deep passion for art, music, and Dad Jokes. Before embarking on my software engineering journey, I had the opportunity to work in the tech industry, providing technical support to users, and also gained experience in the financial industry as a banker. These roles helped me realize my true calling and led me to pursue education at App Academy, where I dedicated myself to studying and gaining over 1000 hours of hands-on coding experience.
 
 During my time at App Academy, I not only honed my technical skills but also received invaluable mentorship from experienced developers, which further fueled my passion for software engineering. I had the opportunity to work on a variety of exciting projects that allowed me to apply my knowledge and creativity to real-world scenarios. Some of my notable projects include:
 <div>
